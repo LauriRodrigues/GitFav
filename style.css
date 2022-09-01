@@ -43,6 +43,14 @@ header {
   color: var(--text-input);
 }
 
+.searchUsername input:focus {
+  outline: 2px solid var(--header-button);
+}
+
+.searchUsername input::placeholder {
+  filter: opacity(0.8);
+}
+
 .searchUsername button {
   background-color: var(--header-button);
   border: none;
