@@ -12,6 +12,8 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/GitFav?color=1280bf">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/GitFav?color=1280bf">
+  
+   <a href="https://laurirodrigues.github.io/GitFav/"> ▶️ Visualizar Deploy </a>
 </div>
 
 <h2 align=left> 💻 Sobre o projeto </h3>
